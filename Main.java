@@ -10,7 +10,8 @@ import java.io.*;
  *
  * @author justo
  * Tarea 3 Traducción dirigida por sintaxis
- */
+ *CLASE PRINCIPAL MANEJA EL PARSER DEL ARCHIVO DE ENTRADA, CONTROLA GRAMATICA Y TRADUCE ARCHIVO DE ENTRADA
+ */CLASE 
 public class Main {
 
     int i=0;
