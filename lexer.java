@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package javaapplication1;
-
+//CLASE ENCARGADA DE VALIDAR TOKENS SI TIENEN LEXEMAS VALIDOS
 /**
  *
  * @author Justo
