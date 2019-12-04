@@ -8,7 +8,7 @@ import java.util.*;
  * TAREA 1 ANALIZADOR LEXICO
  */
 public class lexema {
-
+//CLASE ENCARGADA DE TRAER TOKENS 
     /**
      */
         int j=0;
